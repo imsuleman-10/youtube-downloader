@@ -1,0 +1,32 @@
+# General
+node_modules/
+dist/
+dist-electron/
+build/
+.env
+.venv
+env/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.log
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+flutter_app/build/
+flutter_app/.dart_tool/
+
+# Electron / Vite
+frontend/dist/
+frontend/dist-electron/
+frontend/node_modules/
+mobile-app/node_modules/
+mobile-app/.expo/
+backend/__pycache__/
+backend/.venv/
